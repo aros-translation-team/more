@@ -1,10 +1,10 @@
 ## version $VER: more.catalog 1.0 (15.12.2020)
-## language tÃ¼rkÃ§e
+## language türkçe
 ## codeset 0
 ;
 ;
 MSG_CANT_OPEN_LIB
-%s V%ld aÃ§Ä±lamÄ±yor!
+%s V%ld açýlamýyor!
 ; Can't open %s V%ld!
 ;
 MSG_NO_MEM
@@ -12,39 +12,39 @@ Yetersiz bellek!
 ; Out of memory!
 ;
 MSG_CANT_LOCK_SCR
-Genel ekranÄ± kilitlenemez!
+Genel ekraný kilitlenemez!
 ; Can't lock public screen!
 ;
 MSG_CANT_GET_DRI
-DrawInfo alÄ±namÄ±yor!
+DrawInfo alýnamýyor!
 ; Can't get DrawInfo!
 ;
 MSG_CANT_GET_VI
-GÃ¶rsel Bilgiler alÄ±namÄ±yor!
+Görsel Bilgiler alýnamýyor!
 ; Can't get VisualInfo!
 ;
 MSG_CANT_CREATE_SYSIMAGE
-SYSICLASS gÃ¶rÃ¼ntÃ¼leri oluÅŸturulamadÄ±!
+SYSICLASS görüntüleri oluþturulamadý!
 ; Can't create SYSICLASS images!
 ;
 MSG_CANT_CREATE_GADGET
-AraÃ§ takÄ±mlarÄ± oluÅŸturulamadÄ±!
+Araç takýmlarý oluþturulamadý!
 ; Can't create gadgets!
 ;
 MSG_CANT_CREATE_MENUS
-MenÃ¼ler oluÅŸturulamadÄ±!
+Menüler oluþturulamadý!
 ; Can't create menus!
 ;
 MSG_CANT_CREATE_WIN
-Pencere oluÅŸturulamadÄ±!
+Pencere oluþturulamadý!
 ; Can't create window!
 ;
 MSG_CANT_CREATE_MSGPORT
-Mesaj portu oluÅŸturulamadÄ±!
+Mesaj portu oluþturulamadý!
 ; Can't create message port!
 ;
 MSG_CANT_ADD_APPWINDOW
-Pencereyi bir Uygulama Penceresine Ã§eviremiyorum!
+Pencereyi bir Uygulama Penceresine çeviremiyorum!
 ; Can't turn the window into an AppWindow!
 ;
 MSG_MEN_PROJECT
@@ -52,23 +52,23 @@ Proje
 ; Project
 ;
 MSG_MEN_PROJECT_OPEN
-O\0AÃ§...
+O\0Aç...
 ; O\0Open...
 ;
 MSG_MEN_PROJECT_SAVEAS
-A\0FarklÄ± kaydet...
+A\0Farklý kaydet...
 ; A\0Save as...
 ;
 MSG_MEN_PROJECT_PRINT
-P\0YazdÄ±r
+P\0Yazdýr
 ; P\0Print
 ;
 MSG_MEN_PROJECT_ABOUT
-?\0HakkÄ±nda...
+?\0Hakkýnda...
 ; ?\0About...
 ;
 MSG_MEN_PROJECT_QUIT
-Q\0Ã‡Ä±kÄ±ÅŸ
+Q\0Çýkýþ
 ; Q\0Quit
 ;
 MSG_MEN_NAVIGATION
@@ -84,7 +84,7 @@ MSG_MEN_NAVIGATION_FIND_NEXT
 ; .\0Find Next
 ;
 MSG_MEN_NAVIGATION_FIND_PREV
-,\0Ã–ncekini Bul
+,\0Öncekini Bul
 ; ,\0Find Prev
 ;
 MSG_MEN_NAVIGATION_JUMP
@@ -92,15 +92,15 @@ J\0Atla...
 ; J\0Jump...
 ;
 MSG_ASL_OPEN_TITLE
-AÃ§Ä±lacak DosyayÄ± SeÃ§in
+Açýlacak Dosyayý Seçin
 ; Select File to Open
 ;
 MSG_ASL_SAVE_TITLE
-Kaydedilecek DosyayÄ± SeÃ§in
+Kaydedilecek Dosyayý Seçin
 ; Select File to Save to
 ;
 MSG_ABOUT
-More V%ld.%ld\n (%s)\nTelif HakkÄ± \xa9 %s tarafÄ±ndan %s
+More V%ld.%ld\n (%s)\nTelif Hakký \xa9 %s tarafýndan %s
 ; More V%ld.%ld\n (%s)\nCopyright \xa9 %s by %s
 ;
 MSG_ABOUT_TITLE
@@ -112,7 +112,7 @@ Devam
 ; Continue
 ;
 MSG_JUMP_TITLE
-SatÄ±ra Git ...
+Satýra Git ...
 ; Go to Line ...
 ;
 MSG_FIND_TITLE
@@ -124,11 +124,11 @@ Tamam
 ; Ok
 ;
 MSG_CANCEL
-VazgeÃ§
+Vazgeç
 ; Cancel
 ;
 MSG_WIN_TITLE
-More: %s (%ld SatÄ±r - %ld Bayt)
+More: %s (%ld Satýr - %ld Bayt)
 ; More: %s (%ld Lines - %ld Bytes)
 ;
 MSG_SHORTCUT_TOP
