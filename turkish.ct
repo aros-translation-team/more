@@ -1,6 +1,6 @@
 ## version $VER: more.catalog 1.0 (15.12.2020)
 ## language türkçe
-## codeset 0
+## codeset 12
 ;
 ;
 MSG_CANT_OPEN_LIB
@@ -12,7 +12,7 @@ Yetersiz bellek!
 ; Out of memory!
 ;
 MSG_CANT_LOCK_SCR
-Genel ekraný kilitlenemez!
+Genel ekraný kilitlenemedi!
 ; Can't lock public screen!
 ;
 MSG_CANT_GET_DRI
