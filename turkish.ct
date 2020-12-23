@@ -20,7 +20,7 @@ DrawInfo alýnamýyor!
 ; Can't get DrawInfo!
 ;
 MSG_CANT_GET_VI
-Görsel Bilgiler alýnamýyor!
+VisualInfo alýnamýyor!
 ; Can't get VisualInfo!
 ;
 MSG_CANT_CREATE_SYSIMAGE
