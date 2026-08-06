@@ -1,0 +1,160 @@
+## version $VER: more.catalog 2.0 (06.08.2026)
+## language srpski
+## codeset 8
+;
+MSG_CANT_OPEN_LIB
+Ne mogu da otvorim %s V%ld!
+; Can't open %s V%ld!
+;
+MSG_NO_MEM
+Nema viçe memorije!
+; Out of memory!
+;
+MSG_CANT_LOCK_SCR
+Nije mogu†e zakljuŸati javni ekran!
+; Can't lock public screen!
+;
+MSG_CANT_GET_DRI
+Nije mogu†e dobiti DrawInfo!
+; Can't get DrawInfo!
+;
+MSG_CANT_GET_VI
+Nije mogu†e dobiti VisualInfo!
+; Can't get VisualInfo!
+;
+MSG_CANT_CREATE_SYSIMAGE
+Nije mogu†e napraviti SYSICLASS slike!
+; Can't create SYSICLASS images!
+;
+MSG_CANT_CREATE_GADGET
+Nije mogu†e napraviti ged§ete!
+; Can't create gadgets!
+;
+MSG_CANT_CREATE_MENUS
+Nije mogu†e napraviti menije!
+; Can't create menus!
+;
+MSG_CANT_CREATE_WIN
+Nije mogu†e napraviti prozor!
+; Can't create window!
+;
+MSG_CANT_CREATE_MSGPORT
+Nije mogu†e napraviti port za poruke!
+; Can't create message port!
+;
+MSG_CANT_ADD_APPWINDOW
+Nije mogu†e pretvoriti prozor u AppWindow!
+; Can't turn the window into an AppWindow!
+;
+MSG_MEN_PROJECT
+Projekat
+; Project
+;
+MSG_MEN_PROJECT_OPEN
+O\0Otvori...
+; O\0Open...
+;
+MSG_MEN_PROJECT_SAVEAS
+A\0Snimi kao...
+; A\0Save as...
+;
+MSG_MEN_PROJECT_PRINT
+P\0ætampaj
+; P\0Print
+;
+MSG_MEN_PROJECT_ABOUT
+?\0O programu...
+; ?\0About...
+;
+MSG_MEN_PROJECT_QUIT
+Q\0IzaÐi
+; Q\0Quit
+;
+MSG_MEN_NAVIGATION
+Navigacija
+; Navigation
+;
+MSG_MEN_NAVIGATION_FIND
+F\0NaÐi...
+; F\0Find...
+;
+MSG_MEN_NAVIGATION_FIND_NEXT
+.\0NaÐi slede†e
+; .\0Find Next
+;
+MSG_MEN_NAVIGATION_FIND_PREV
+,\0NaÐi prethodno
+; ,\0Find Prev
+;
+MSG_MEN_NAVIGATION_JUMP
+J\0SkoŸi...
+; J\0Jump...
+;
+MSG_ASL_OPEN_TITLE
+Izaberite fajl za otvaranje
+; Select File to Open
+;
+MSG_ASL_SAVE_TITLE
+Izaberite fajl za snimanje
+; Select File to Save to
+;
+MSG_ABOUT
+More V%ld.%ld\n (%s)\nCopyright \xa9 %s od %s
+; More V%ld.%ld\n (%s)\nCopyright \xa9 %s by %s
+;
+MSG_ABOUT_TITLE
+More
+; More
+;
+MSG_CONTINUE
+Nastavi
+; Continue
+;
+MSG_JUMP_TITLE
+Idi na liniju ...
+; Go to Line ...
+;
+MSG_FIND_TITLE
+Pretraga
+; Search
+;
+MSG_OK
+Ok
+; Ok
+;
+MSG_CANCEL
+Poniçti
+; Cancel
+;
+MSG_WIN_TITLE
+More: %s (%ld linija - %ld bajtova)
+; More: %s (%ld Lines - %ld Bytes)
+;
+MSG_SHORTCUT_TOP
+T
+; T
+;
+MSG_SHORTCUT_BOTTOM
+B
+; B
+;
+MSG_SHORTCUT_JUMP
+GJ
+; GJ
+;
+MSG_SHORTCUT_FIND
+FS
+; FS
+;
+MSG_SHORTCUT_NEXT
+N
+; N
+;
+MSG_SHORTCUT_PREV
+P
+; P
+;
+MSG_SHORTCUT_EDITOR
+E
+; E
+;

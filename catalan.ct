@@ -1,0 +1,160 @@
+## version $VER: more.catalog 2.0 (06.08.2026)
+## language català
+## codeset 0
+;
+MSG_CANT_OPEN_LIB
+No es pot obrir %s V%ld!
+; Can't open %s V%ld!
+;
+MSG_NO_MEM
+Memòria esgotada!
+; Out of memory!
+;
+MSG_CANT_LOCK_SCR
+No es pot bloquejar la pantalla pública!
+; Can't lock public screen!
+;
+MSG_CANT_GET_DRI
+No es pot obtenir el DrawInfo!
+; Can't get DrawInfo!
+;
+MSG_CANT_GET_VI
+No es pot obtenir el VisualInfo!
+; Can't get VisualInfo!
+;
+MSG_CANT_CREATE_SYSIMAGE
+No es poden crear les imatges SYSICLASS!
+; Can't create SYSICLASS images!
+;
+MSG_CANT_CREATE_GADGET
+No es poden crear els gadgets!
+; Can't create gadgets!
+;
+MSG_CANT_CREATE_MENUS
+No es poden crear els menús!
+; Can't create menus!
+;
+MSG_CANT_CREATE_WIN
+No es pot crear la finestra!
+; Can't create window!
+;
+MSG_CANT_CREATE_MSGPORT
+No es pot crear el port de missatges!
+; Can't create message port!
+;
+MSG_CANT_ADD_APPWINDOW
+No es pot convertir la finestra en una AppWindow!
+; Can't turn the window into an AppWindow!
+;
+MSG_MEN_PROJECT
+Projecte
+; Project
+;
+MSG_MEN_PROJECT_OPEN
+O\0Obrir...
+; O\0Open...
+;
+MSG_MEN_PROJECT_SAVEAS
+A\0Desar com...
+; A\0Save as...
+;
+MSG_MEN_PROJECT_PRINT
+P\0Imprimir
+; P\0Print
+;
+MSG_MEN_PROJECT_ABOUT
+?\0Sobre...
+; ?\0About...
+;
+MSG_MEN_PROJECT_QUIT
+Q\0Sortir
+; Q\0Quit
+;
+MSG_MEN_NAVIGATION
+Navegació
+; Navigation
+;
+MSG_MEN_NAVIGATION_FIND
+F\0Cercar...
+; F\0Find...
+;
+MSG_MEN_NAVIGATION_FIND_NEXT
+.\0Cercar següent
+; .\0Find Next
+;
+MSG_MEN_NAVIGATION_FIND_PREV
+,\0Cercar anterior
+; ,\0Find Prev
+;
+MSG_MEN_NAVIGATION_JUMP
+J\0Saltar...
+; J\0Jump...
+;
+MSG_ASL_OPEN_TITLE
+Seleccionar el fitxer a obrir
+; Select File to Open
+;
+MSG_ASL_SAVE_TITLE
+Seleccionar el fitxer on desar
+; Select File to Save to
+;
+MSG_ABOUT
+More V%ld.%ld\n (%s)\nCopyright \xa9 %s per %s
+; More V%ld.%ld\n (%s)\nCopyright \xa9 %s by %s
+;
+MSG_ABOUT_TITLE
+More
+; More
+;
+MSG_CONTINUE
+Continuar
+; Continue
+;
+MSG_JUMP_TITLE
+Anar a la línia ...
+; Go to Line ...
+;
+MSG_FIND_TITLE
+Cercar
+; Search
+;
+MSG_OK
+D'acord
+; Ok
+;
+MSG_CANCEL
+Cancel.lar
+; Cancel
+;
+MSG_WIN_TITLE
+More: %s (%ld Línies - %ld Bytes)
+; More: %s (%ld Lines - %ld Bytes)
+;
+MSG_SHORTCUT_TOP
+T
+; T
+;
+MSG_SHORTCUT_BOTTOM
+N
+; B
+;
+MSG_SHORTCUT_JUMP
+GJ
+; GJ
+;
+MSG_SHORTCUT_FIND
+FS
+; FS
+;
+MSG_SHORTCUT_NEXT
+N
+; N
+;
+MSG_SHORTCUT_PREV
+P
+; P
+;
+MSG_SHORTCUT_EDITOR
+E
+; E
+;
