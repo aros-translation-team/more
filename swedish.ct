@@ -12,7 +12,7 @@ MSG_CANT_LOCK_SCR
 Kan inte låsa allmän skärm!
 ;
 MSG_CANT_GET_DRI 
-Kan inte läsa DrawInfo! 
+Kan inte läsa DrawInfo!
 ;
 MSG_CANT_GET_VI 
 Kan inte läsa VisualInfo!
