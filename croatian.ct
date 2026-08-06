@@ -100,7 +100,7 @@ Izaberite Datoteku u koju ®elite Spremiti
 ; Select File to Save to
 ;
 MSG_ABOUT
-Èitaè V%ld.%ld\n (%s)\nCopyright Œ %s by %s
+Èitaè V%ld.%ld\n (%s)\nCopyright (C) %s by %s
 ; More V%ld.%ld\n (%s)\nCopyright © %s by %s
 ;
 MSG_ABOUT_TITLE

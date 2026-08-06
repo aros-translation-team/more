@@ -1,4 +1,4 @@
-## version $VER: more.catalog 1.0 (13.08.2008)
+## version $VER: more.catalog 2.0 (06.08.2026)
 ## codeset 0
 ## language português
 ;
@@ -37,6 +37,14 @@ Não foi possível criar os menus!
 MSG_CANT_CREATE_WIN
 Não foi possível criar a janela!
 ;Can't create window!
+;
+MSG_CANT_CREATE_MSGPORT
+Não foi possível criar a porta de mensagens!
+; Can't create message port!
+;
+MSG_CANT_ADD_APPWINDOW
+Não foi possível transformar a janela numa AppWindow!
+; Can't turn the window into an AppWindow!
 ;
 MSG_MEN_PROJECT
 Projecto
@@ -137,4 +145,8 @@ N
 ;
 MSG_SHORTCUT_PREV
 P
+;
+MSG_SHORTCUT_EDITOR
+E
+; E
 ;

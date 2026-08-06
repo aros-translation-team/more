@@ -1,9 +1,9 @@
-## version $VER: more.catalog 1.0 (21.07.2019)
+## version $VER: more.catalog 2.0 (06.08.2026)
 ## codeset 0
 ## language norsk
 ;
 MSG_CANT_OPEN_LIB
-Kan ikke åpne %s V%1d!
+Kan ikke åpne %s V%ld!
 ;
 MSG_NO_MEM
 Ikke nok minne!
