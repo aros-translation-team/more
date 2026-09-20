@@ -101,7 +101,7 @@ Izaberite Datoteku u koju ®elite Spremiti
 ;
 MSG_ABOUT
 Èitaè V%ld.%ld\n (%s)\nCopyright (C) %s by %s
-; More V%ld.%ld\n (%s)\nCopyright © %s by %s
+; More V%ld.%ld\n (%s)\nCopyright \xa9 %s by %s
 ;
 MSG_ABOUT_TITLE
 Èitaè
