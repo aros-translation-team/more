@@ -101,7 +101,7 @@ Ulo¾ení souboru
 ;
 MSG_ABOUT
 More V%ld.%ld\n (%s)\nCopyright (C) %s %s
-; More V%ld.%ld\n (%s)\nCopyright © %s by %s
+; More V%ld.%ld\n (%s)\nCopyright \xa9 %s by %s
 ;
 MSG_ABOUT_TITLE
 More
